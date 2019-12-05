@@ -1,7 +1,7 @@
 pipleline {
   agent any
   tools {
-    maven 'MAven'
+    maven 'Maven'
   }
   stages{
     stage('Initialise') {
